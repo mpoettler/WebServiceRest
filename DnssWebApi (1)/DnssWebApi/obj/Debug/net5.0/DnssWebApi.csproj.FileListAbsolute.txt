@@ -1,0 +1,60 @@
+C:\git\GNSS\DnssWebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\git\GNSS\DnssWebApi\bin\Debug\net5.0\appsettings.json
+C:\git\GNSS\DnssWebApi\bin\Debug\net5.0\DnssWebApi.exe
+C:\git\GNSS\DnssWebApi\bin\Debug\net5.0\DnssWebApi.deps.json
+C:\git\GNSS\DnssWebApi\bin\Debug\net5.0\DnssWebApi.runtimeconfig.json
+C:\git\GNSS\DnssWebApi\bin\Debug\net5.0\DnssWebApi.runtimeconfig.dev.json
+C:\git\GNSS\DnssWebApi\bin\Debug\net5.0\DnssWebApi.dll
+C:\git\GNSS\DnssWebApi\bin\Debug\net5.0\ref\DnssWebApi.dll
+C:\git\GNSS\DnssWebApi\bin\Debug\net5.0\DnssWebApi.pdb
+C:\git\GNSS\DnssWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\git\GNSS\DnssWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\git\GNSS\DnssWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\git\GNSS\DnssWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\git\GNSS\DnssWebApi\obj\Debug\net5.0\DnssWebApi.csproj.AssemblyReference.cache
+C:\git\GNSS\DnssWebApi\obj\Debug\net5.0\DnssWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\GNSS\DnssWebApi\obj\Debug\net5.0\DnssWebApi.AssemblyInfoInputs.cache
+C:\git\GNSS\DnssWebApi\obj\Debug\net5.0\DnssWebApi.AssemblyInfo.cs
+C:\git\GNSS\DnssWebApi\obj\Debug\net5.0\DnssWebApi.csproj.CoreCompileInputs.cache
+C:\git\GNSS\DnssWebApi\obj\Debug\net5.0\DnssWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\git\GNSS\DnssWebApi\obj\Debug\net5.0\DnssWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\git\GNSS\DnssWebApi\obj\Debug\net5.0\staticwebassets\DnssWebApi.StaticWebAssets.Manifest.cache
+C:\git\GNSS\DnssWebApi\obj\Debug\net5.0\staticwebassets\DnssWebApi.StaticWebAssets.xml
+C:\git\GNSS\DnssWebApi\obj\Debug\net5.0\scopedcss\bundle\DnssWebApi.styles.css
+C:\git\GNSS\DnssWebApi\obj\Debug\net5.0\DnssWebApi.RazorTargetAssemblyInfo.cache
+C:\git\GNSS\DnssWebApi\obj\Debug\net5.0\DnssWebApi.csproj.CopyComplete
+C:\git\GNSS\DnssWebApi\obj\Debug\net5.0\DnssWebApi.dll
+C:\git\GNSS\DnssWebApi\obj\Debug\net5.0\ref\DnssWebApi.dll
+C:\git\GNSS\DnssWebApi\obj\Debug\net5.0\DnssWebApi.pdb
+C:\git\GNSS\DnssWebApi\obj\Debug\net5.0\DnssWebApi.genruntimeconfig.cache
+C:\git\GNSS\DnssWebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\bin\Debug\net5.0\DnssWebApi.exe
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\bin\Debug\net5.0\DnssWebApi.deps.json
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\bin\Debug\net5.0\DnssWebApi.runtimeconfig.json
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\bin\Debug\net5.0\DnssWebApi.runtimeconfig.dev.json
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\bin\Debug\net5.0\DnssWebApi.dll
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\bin\Debug\net5.0\DnssWebApi.pdb
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\obj\Debug\net5.0\DnssWebApi.csproj.AssemblyReference.cache
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\obj\Debug\net5.0\DnssWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\obj\Debug\net5.0\DnssWebApi.AssemblyInfoInputs.cache
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\obj\Debug\net5.0\DnssWebApi.AssemblyInfo.cs
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\obj\Debug\net5.0\DnssWebApi.csproj.CoreCompileInputs.cache
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\obj\Debug\net5.0\DnssWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\obj\Debug\net5.0\DnssWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\obj\Debug\net5.0\scopedcss\bundle\DnssWebApi.styles.css
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\obj\Debug\net5.0\staticwebassets\DnssWebApi.StaticWebAssets.Manifest.cache
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\obj\Debug\net5.0\DnssWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\obj\Debug\net5.0\DnssWebApi.csproj.CopyComplete
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\obj\Debug\net5.0\DnssWebApi.dll
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\obj\Debug\net5.0\DnssWebApi.pdb
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\obj\Debug\net5.0\DnssWebApi.genruntimeconfig.cache
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\obj\Debug\net5.0\ref\DnssWebApi.dll
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\bin\Debug\net5.0\ref\DnssWebApi.dll
+C:\Users\mpoet\OneDrive\Desktop\ArbeitsZeuch#\DnssWebApi (1)\DnssWebApi\obj\Debug\net5.0\staticwebassets\DnssWebApi.StaticWebAssets.xml
